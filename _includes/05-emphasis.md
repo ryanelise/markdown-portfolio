@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am currently _learning_ how to use Github 😄
+Today, I have learned how to:
+* Create a **repository**
+* Create a _branch_
+* And __much__ more
+
+_How do I __combine__ these?_ Oh, __that's__ how.
